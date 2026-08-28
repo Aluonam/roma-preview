@@ -1,0 +1,3 @@
+# Vista previa para el cliente. No es la web definitiva: fuera de buscadores.
+User-agent: *
+Disallow: /
